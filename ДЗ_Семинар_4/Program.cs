@@ -50,6 +50,7 @@ void GetArray(int size)
     System.Console.WriteLine($"[{String.Join(", ", array)}]");
     System.Console.WriteLine();
 }
+
 GetArray(8);
 
 
